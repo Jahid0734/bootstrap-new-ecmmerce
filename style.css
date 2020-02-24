@@ -1,0 +1,33 @@
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+
+h3{
+    margin-bottom: 30px;
+}
+.smartphone{
+    border: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 8px lightgray  ;
+    border-radius: 10px;
+    text-align: center;
+}
+.see-all{
+    color: rgb(247, 195, 25);
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 12px;
+}
+.container{
+    margin-bottom: 40px;
+}
+.category-shoes{
+    margin-top: 20px;
+}
