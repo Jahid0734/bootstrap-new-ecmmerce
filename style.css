@@ -34,3 +34,29 @@ h3{
 .bag{
     padding: 10px 20px;
 }
+.categories-uline {
+    background-image: linear-gradient(to right, #FFD019, #FFAF2A);
+    width: 73px;
+    height: 10px;
+    border-radius: 50px;
+    margin: 0% 0 10% 47%;
+}
+.pale img{
+    width: 100%;
+}
+.card{
+    border: none;
+    padding: 20px 20px;
+    box-shadow: 5px 5px 10 px;
+}
+.carousel-indicators li.active {
+    height: 8px;
+    width: 25px;
+    background-color: orange;
+    
+}
+.carousel-indicators li {
+    height: 8px;
+    width: 10px;
+    background-color: #252525;
+}
